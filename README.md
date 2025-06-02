@@ -52,7 +52,7 @@ Download and install the latest version of Visual Studio Code [here](https://cod
 
 ### Clone this code to your local computer
 
-We will now download this code from GitHub.com into Visual Studio Code on your own computer... [this video tutorial](https://youtu.be/axcny0o1NYo) may help.
+We will now download this code from GitHub.com into Visual Studio Code on your own computer.
 
 - Open Visual Studio Code
 - click the Source Control icon in the left tool bar and then click the button to "Clone Repository".
@@ -96,9 +96,7 @@ You will now add a few line of HTML code to the `index.html` file.
     </title>
   </head>
   <body>
-    <h1>
-      Insert your name here exactly as written in your settings.json file
-    </h1>
+    <h1>Insert your name here exactly as written in your settings.json file</h1>
     <p>Hello world!</p>
   </body>
 </html>
